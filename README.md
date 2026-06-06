@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 
 <p align="center">
-  <img src="banner.png" width="800">
+  <img src="./banner.png" alt="Banner" width="800">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoboCop-11&show_icons=true" />
-</p>
